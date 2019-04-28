@@ -1,2 +1,2 @@
 # Brainstormer
-This is a project from my softaware engineering class at Austin Peay.
+This is a project from my software engineering class at Austin Peay.
